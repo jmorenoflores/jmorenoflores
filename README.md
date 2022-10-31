@@ -6,4 +6,4 @@
 
 Languages and tools: 
 
-<img src="python_logo.png" height = 90><img src="jupyter_logo.png" height = 90>
+<img src="python_logo.png" height = 90><img src="postgre_logo.png" height = 90><img src="jupyter_logo.png" height = 90>
