@@ -1,4 +1,4 @@
-## HI there, I'm Javier and Welcome to my profile!    
+## Hi there, I'm Javier and Welcome to my profile!    
 
 ## Intro
 
