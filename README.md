@@ -2,6 +2,7 @@
 
 ## Intro
 
+I am a aspiring Data Scientist with 1 years of experience using python. I worked on 15+ different projects focused on data analysis and machine learning algorithms, for the professional training certificate program at Practicum by Yandex. I also have 2 years of experience in the development of dietary calculators, using Excel, for epileptic patients in the Precision Ketogenic Program at the University of Florida. I am eager to apply my previous experiences and skills to improve and optimize analytical processes and data-driven decisions. 
 
 ## Languages and tools: 
 
