@@ -10,6 +10,7 @@
 
 
 ## Contact Information: 
-[<img src="linkedIn_logo.png" height = 80>](https://www.linkedin.com/in/jmorenoflores/)
-Email: javier.morenof@outlook.com
-Phone: +1 (239)218-6394
+[<img src="linkedIn_logo.png" height = 70>](https://www.linkedin.com/in/jmorenoflores/)
+
+### Email: javier.morenof@outlook.com
+### Phone: +1 (239)218-6394
