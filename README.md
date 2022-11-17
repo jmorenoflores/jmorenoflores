@@ -2,7 +2,20 @@
 
 ## Intro
 
-### I am a aspiring Data Scientist with 1 years of experience using python. I worked on 15+ different projects focused on data analysis and machine learning algorithms, for the professional training certificate program at Practicum by Yandex. I also have 2 years of experience in the development of dietary calculators, using Excel, for epileptic patients in the Precision Ketogenic Program at the University of Florida. I am eager to apply my previous experiences and skills to improve and optimize analytical processes and data-driven decisions. 
+Aspiring data scientist with 1+ year of experience applying my python skills on sixteen different projects, focused on data storytelling, statistical analysis, data parsing, and machine learning algorithms, for the Data Science Professional Training Certificate Program by Practicum by Yandex. Some of the Machine Learning models I've mastered include: Logistics Regression, Linear Regression, RandomForest Classifier/Regressor, DecisionTree Classifier Regressor, KNearestNeighbors Classifier/Regressor, XGBoost Classifier/Regressor, CatBoost Classifier/Regressor, LGBM Classifier/Regressor. 
+
+## Skilled using the following skills/libraries: 
+- Python (Pandas, NumPy, SciPy)
+- Visualization (Matplotlib, seaborn)
+- Parsing Data (BeautifulSoup, re, requests)
+- Machine Learning Hyperparameter Tuning (random/gridSearchCV)
+- Time Series Analysis (seasonal_decompose, TimeSeriesSplit, DateTime)
+- Natural Language Processing (spaCy, NLTK, PyTorch, TfidfVectorizer)
+- Unsupervised machine learning (K-Means, IsolationForest)
+- Computer Vision (TensorFlow, Keras)
+- PostgreSQL
+
+I am also experienced, with two years, in developing dietary calculators, using Excel, for epileptic patients in the Precision Ketogenic Program at the University of Florida. I am eager to apply my previous experiences to improve and optimize analytical processes and data-driven decisions.
 
 ## Languages and tools: 
 
