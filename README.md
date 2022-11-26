@@ -2,7 +2,7 @@
 
 ## Intro
 
-Aspiring data scientist with 1+ year of experience applying my python skills on sixteen different projects, focused on data storytelling, statistical analysis, data parsing, and machine learning algorithms, for the Data Science Professional Training Certificate Program by Practicum by Yandex. Some of the Machine Learning models I've mastered include: Logistics Regression, Linear Regression, RandomForest Classifier/Regressor, DecisionTree Classifier Regressor, KNearestNeighbors Classifier/Regressor, XGBoost Classifier/Regressor, CatBoost Classifier/Regressor, LGBM Classifier/Regressor. 
+Aspiring data scientist with 1+ year of experience applying my python skills on sixteen different projects, focused on data storytelling, statistical analysis, data parsing, and machine learning, for the Data Science Professional Training Certificate Program by Practicum. Some of the Machine Learning models I've mastered include: Logistics Regression, Linear Regression, RandomForest Classifier/Regressor, DecisionTree Classifier Regressor, KNearestNeighbors Classifier/Regressor, XGBoost Classifier/Regressor, CatBoost Classifier/Regressor, LGBM Classifier/Regressor. 
 
 ## Skilled using the following skills/libraries: 
 - Python (Pandas, NumPy, SciPy)
